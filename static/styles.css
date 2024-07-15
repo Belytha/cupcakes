@@ -1,0 +1,6 @@
+img{
+    width: 200px;
+}
+.delete-button:hover{
+    cursor: pointer;
+}
